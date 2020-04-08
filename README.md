@@ -1,6 +1,8 @@
 # [Micro-social](https://micro-social.herokuapp.com/)
 
 ![Micro-social Screenshot](screenshot.png)
+
+## Video demo
 ![Micro-social_video](./micro-social.gif)
 
 ## Table of content
