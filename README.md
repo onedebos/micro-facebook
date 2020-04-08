@@ -41,6 +41,12 @@ git clone https://github.com/rociac/micro-facebook
 
 4. Run `rails db:seed` (Optional)
 
+## Automated Tests
+- Currently, there are no automated tests avaailable for this project. This will be implemented at a later date.
+
+## Planned Features
+- Refactor this application into a microservice/API.
+
 ## Authors
 
 - [Rodolfo Cisneros](https://github.com/rociac)
